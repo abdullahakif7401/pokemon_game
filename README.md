@@ -1,5 +1,5 @@
-# POKEMON GAME
-<br><br>
+# Pokemon Game
+<br>
 Used and modified publicly available ADT implementations, constructed a few more ADTs, and observed how they are used in actual problem solving. Analyzed the algorithms best and worst-case complexity and put this information to use.
 <br>
 ## Background
